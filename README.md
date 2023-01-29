@@ -152,11 +152,13 @@ for (item of buttons) {
 }
 ```
 ## OUTPUT:
-![Uploading calci2.png…]()
+![Screenshot (104)](https://user-images.githubusercontent.com/119395610/215313257-d61d3768-4966-4f6a-ba0f-61a2b4de5d0b.png)
+
 
 
 
 ## HTML VALIDATOR:
+![Screenshot (105)](https://user-images.githubusercontent.com/119395610/215313282-7f9cba63-eb8c-4cc5-94aa-b4a7c762da58.png)
 
 
 ## RESULT:

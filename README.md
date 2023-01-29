@@ -152,10 +152,12 @@ for (item of buttons) {
 }
 ```
 ## OUTPUT:
-![Sanjai](./out.png)
+![Uploading calci2.png…]()
+
+
 
 ## HTML VALIDATOR:
-![Sanjai](./valid.png)
+
 
 ## RESULT:
 The program for implementing simple calculator using HTML, CSS and JavaScript is executed successfully.

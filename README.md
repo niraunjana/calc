@@ -158,7 +158,8 @@ for (item of buttons) {
 
 
 ## HTML VALIDATOR:
-![Screenshot (105)](https://user-images.githubusercontent.com/119395610/215313282-7f9cba63-eb8c-4cc5-94aa-b4a7c762da58.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/119395610/215313354-e8ec0a96-0c6f-4194-89b6-2b98030033a9.png)
+
 
 
 ## RESULT:
